@@ -1,2 +1,2 @@
 # nodejs-athentication
-A small test for athentication in nodejs with passportjs
+A small test for authentication in nodejs with passportjs
